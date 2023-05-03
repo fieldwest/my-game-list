@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">僕のゲームコレクション</string>
+    <string name="camera_button_text">カメラで検索</string>
+    <string name="camera_image_view_description">カメラで撮影した画像</string>
+</resources>
